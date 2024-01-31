@@ -1,0 +1,9 @@
+node_modules
+build
+.github
+.eslintrc.js
+src/service-worker.ts
+src/serviceWorkerRegistration.ts
+src/setupTests.ts
+src/reportWebVitals.ts
+src/react-app-env.d.ts
